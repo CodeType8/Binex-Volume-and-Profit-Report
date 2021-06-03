@@ -1,0 +1,4 @@
+1. change the raw data name as "raw"
+2. run program.
+3. choose month
+4. wait until report create
